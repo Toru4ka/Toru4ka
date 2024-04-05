@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toru4ka
-- 👀 I’m interested in Unity 3d, C#, Python, Zabbix, Grafana, Linux 
+- 👀 I’m interested in Python, Zabbix, Grafana, Linux 
 - 🌱 I’m currently learning Python, Zabbix, Grafana, Linux 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
